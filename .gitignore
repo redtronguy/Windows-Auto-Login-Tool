@@ -3,3 +3,15 @@
 
 # PowerShell transcripts and logs
 logs/
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Claude Code
+.claude/
