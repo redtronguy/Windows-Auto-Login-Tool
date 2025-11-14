@@ -1,0 +1,5 @@
+# macOS Finder cruft
+.DS_Store
+
+# PowerShell transcripts and logs
+logs/
